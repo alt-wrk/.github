@@ -8,13 +8,11 @@
 
 # ALT-WRK
 
-### ~~We sell AI.~~
-
 ## We redesign how work gets done.
 
 Together, we find the decisions and handoffs slowing you down. Then we use AI where it earns its place.
 
-[Visit alt-wrk.com](https://alt-wrk.com) · [Tell us what’s slowing you down](mailto:hello@alt-wrk.com?subject=An%20unresolved%20question)
+[Visit alt-wrk.com](https://alt-wrk.com)
 
 </div>
 
@@ -35,12 +33,13 @@ Together, we find the decisions and handoffs slowing you down. Then we use AI wh
 
 Most AI projects start with an answer already chosen. We start with the people closest to the work, find the friction together, then design a system around what matters.
 
-|  | Assumption | Revision |
-|---|---|---|
-| **01** | ~~We sell AI.~~ | **We redesign how work gets done.** AI is today’s best tool. It still has to earn its place in the system. |
-| **02** | ~~Start with the stack.~~ | **Start with the business.** Tools are answers. We begin with the constraint, handoff, or decision that keeps slowing you down. |
-| **03** | ~~Automate everything.~~ | **Protect human judgment.** Specialized agents handle the repetition. A few people keep the consequential calls. |
-| **04** | ~~Bill the hours.~~ | **Own the outcome.** Hours returned, decisions improved, margin created. Shipping alone is not proof. |
+**We redesign how work gets done.** AI is today’s best tool. It still has to earn its place in the system.
+
+| Assumption | Revision |
+|---|---|
+| ~~Start with the stack.~~ | **Start with the business.** Tools are answers. We begin with the constraint, handoff, or decision that keeps slowing you down. |
+| ~~Automate everything.~~ | **Protect human judgment.** Specialized agents handle the repetition. A few people keep the consequential calls. |
+| ~~Bill the hours.~~ | **Own the outcome.** Hours returned, decisions improved, margin created. Shipping alone is not proof. |
 
 ## Live experiments
 
