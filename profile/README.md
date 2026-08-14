@@ -1,20 +1,8 @@
 <p align="center">
   <a href="https://alt-wrk.com">
-    <img src="https://alt-wrk.com/og.png?v=2" alt="Alt-Wrk — We redesign how work gets done." width="800">
+    <img src="https://alt-wrk.com/og.png?v=3" alt="alt-wrk — We redesign how work gets done." width="800">
   </a>
 </p>
-
-<div align="center">
-
-# ALT-WRK
-
-## We redesign how work gets done.
-
-Together, we find the decisions and handoffs slowing you down. Then we use AI where it earns its place.
-
-[Visit alt-wrk.com](https://alt-wrk.com)
-
-</div>
 
 ---
 
